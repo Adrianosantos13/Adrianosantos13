@@ -1,13 +1,18 @@
 ### Olá! Eu sou Adriano Santos
 
-- 🔭 Trabalho atualmente na área da saúde, porém, pretendo ingressar na área de Tecnologia em breve.
+🔭 Trabalho atualmente com rotinas de Farmácia e Suprimentos em um grande Hospital no Estado de São Paulo.
 
-- 🌱 Estudando no momento SQL devido a demanda (em minha área) por analistas ERP, no entanto, busco manter no radar Hmtl, Css, JS, PHP, Phyton pois a médio prazo pretendo me tornar um desenvolvedor.
+Mantenho uma rotinas de estudos, pois pretendo me tornar um Desenvolvedor e transformar a vida das pessoas através da Tecnologia!
+
+A intenção desse perfil é compartilhar projetos desenvolvidos, trocar experiências e aprender com os Desenvolvedores mais experientes.
+
+Bora trabalhar juntos?!
+
 
 <div align="center">
   <a href="https://github.com/Adrianosantos13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoSantos&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoSantos&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianosantos13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianosantos13&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
