@@ -2,7 +2,7 @@
 
 🔭 Trabalho atualmente com rotinas de Farmácia e Suprimentos em um grande Hospital no Estado de São Paulo.
 
-Mantenho uma rotinas de estudos, pois pretendo me tornar um Desenvolvedor e transformar a vida das pessoas através da Tecnologia!
+Mantenho minha rotina de estudos, pois pretendo me tornar um Desenvolvedor e transformar a vida das pessoas através da Tecnologia!
 
 A intenção desse perfil é compartilhar projetos desenvolvidos, trocar experiências e aprender com os Desenvolvedores mais experientes.
 
