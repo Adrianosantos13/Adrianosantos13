@@ -4,7 +4,7 @@
 
 Mantenho minhas rotinas de estudos, pois pretendo me tornar um Desenvolvedor e transformar a vida das pessoas através da Tecnologia!
 
-A intenção desse perfil é compartilhar projetos, trocar experiências e aprender com os Desenvolvedores mais experientes.
+A intenção desse perfil é compartilhar projetos, trocar idéias e aprender com os Desenvolvedores mais experientes.
 
 Bora trabalhar juntos?!
 
