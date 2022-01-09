@@ -1,10 +1,10 @@
 ### Olá! Eu sou Adriano Santos
 
-🔭 Trabalho atualmente com rotinas de Farmácia e Suprimentos em um grande Hospital no Estado de São Paulo.
+🔭 Trabalho atualmente com processos logísticos em um grande Hospital no Estado de São Paulo.
 
-Mantenho minha rotina de estudos, pois pretendo me tornar um Desenvolvedor e transformar a vida das pessoas através da Tecnologia!
+Mantenho minhas rotinas de estudos, pois pretendo me tornar um Desenvolvedor e transformar a vida das pessoas através da Tecnologia!
 
-A intenção desse perfil é compartilhar projetos desenvolvidos, trocar experiências e aprender com os Desenvolvedores mais experientes.
+A intenção desse perfil é compartilhar projetos, trocar experiências e aprender com os Desenvolvedores mais experientes.
 
 Bora trabalhar juntos?!
 
